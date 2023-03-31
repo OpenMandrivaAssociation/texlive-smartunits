@@ -1,6 +1,6 @@
 Name:		texlive-smartunits
 Version:	39592
-Release:	1
+Release:	2
 Summary:	Converting between common metric and Imperial units
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/smartunits
