@@ -3,7 +3,7 @@ Version:	39592
 Release:	2
 Summary:	Converting between common metric and Imperial units
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/smartunits
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/smartunits
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/smartunits.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/smartunits.doc.r%{version}.tar.xz
